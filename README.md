@@ -11,11 +11,11 @@ across 4 years using the Kaggle Superstore dataset.
 -  Copiers have the highest profit margin
 
 ## Key Metrics
- Total Sales - $2.30M 
- Profit Margin - 12.47% 
- Total Profit - $286.40K 
- Total Orders - 5,009 
- Avg Order Value - $458.61 
+| Total Sales - $2.30M |
+| Profit Margin - 12.47% |
+| Total Profit - $286.40K |
+| Total Orders - 5,009 |
+| Avg Order Value - $458.61 |
 
 ## Tools Used
 - Power BI Desktop
